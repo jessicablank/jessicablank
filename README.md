@@ -1,6 +1,6 @@
 ### Hello There 👋 My name is Jessica. Once we get to know each other, you can call me Jess 
 
-### Thank you for visiting my GitHub Repo
+### Thank you for visiting my GitHub Repo. 
 ### I am currently wrapping up a 12-week coding bootcamp through UCSD extension to launch my STEM career :rocket: The entire bootcamp took place over Zoom, GitHub, GitLab, Google Drive, and Slack due to the COVID-19 crises. 
 
 ![OctoJess Gif](https://github.com/jessicablank/jessicablank/blob/master/assets/OctoJess.gif)
