@@ -8,7 +8,7 @@
 
 * 🔭 I’m currently working on my react porfolio and reading :books: Brandon Sanderson's _The Stormlight Archive_
 * 🌱 I’m currently learning ALL THE CODING THINGS.
-* 👯 I’m looking to collaborate on Technical Writing! Once upon a time I earned a degree in editorial journalism from the University of Colorado at Boulder (_Go Buffs!_). My favorite professor told me data organization would be the key to my future and goodness! She is correct. Now I am hoping to become a software developer with a side-hustle in technical writing. 
+* 👯 I’m looking to collaborate on Technical Writing! Once upon a time I earned a degree in editorial journalism from the University of Colorado at Boulder (_Go Buffs!_). My favorite professor told me data organization would be the key to my future and goodness! She is correct. Now I am hoping to become a software developer and contribute to the software development community by helping to keep those all-important documents up-to-date.
 * 🤔 I’m looking for help landing my first developer job. 
 * 💬 Ask me about yoga, beer, or why I love playing a bard in 5th edition DnD.
 * 📫 You can reach me via [email](jessicablankemeier@gmail.com) or [Linkedin](https://www.linkedin.com/in/jessicablankemeier/) or even [twitter](https://twitter.com/JessBlankemeier)
