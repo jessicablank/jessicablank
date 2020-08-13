@@ -1,4 +1,4 @@
-## Hello There 👋 My name is Jessica: <img align="right" src="https://github.com/jessicablank/jessicablank/blob/master/assets/OctoJessPlus.gif" </a> 
+## Hello There 👋 My name is Jessica: <img align="right" src="https://github.com/jessicablank/jessicablank/blob/master/assets/OctoJessPlus.gif?raw=true" </a> 
 
 ## Thank you for visiting my GitHub Repo. 
 ### I am currently wrapping up a 12-week web-development coding bootcamp through UCSD extension to launch my STEM career  The entire bootcamp took place over Zoom, GitHub, GitLab, Google Drive, and Slack due to the COVID-19 crises. 
