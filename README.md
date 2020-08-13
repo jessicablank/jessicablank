@@ -15,4 +15,4 @@
 
 :globe_with_meridians: You can reach me via [email](jessicablankemeier@gmail.com) or [Linkedin](https://www.linkedin.com/in/jessicablankemeier/) or even [twitter](https://twitter.com/JessBlankemeier) 
 
-<p align="right"><em>Check out this link to create your very own [Octocat Avatar!](https://myoctocat.com/build-your-octocat/)</em><p>
+*Check out this link to create your very own <a>[Octocat Avatar!](https://myoctocat.com/build-your-octocat/)*
