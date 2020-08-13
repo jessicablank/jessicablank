@@ -1,6 +1,5 @@
-## Hello There 👋 My name is Jessica: <a><img align="right" src="https://github.com/jessicablank/jessicablank/blob/master/assets/OctoJessPlus.gif?raw=true"></a> 
-
-## Thank you for visiting my GitHub Repo. 
+## Hello 👋 Thank you for visiting my GitHub Repo: <a><img align="right" src="https://github.com/jessicablank/jessicablank/blob/master/assets/OctoJessPlus.gif?raw=true"></a> 
+ 
 ### I am currently wrapping up a 12-week web-development coding bootcamp through UCSD extension to launch my STEM career  The entire bootcamp took place over Zoom, GitHub, GitLab, Google Drive, and Slack due to the COVID-19 crises. 
 ### The bootcamp covered the fundamentals of:
 :computer: Git, HTML, CSS (including Bootstrap & Materialize) , Javascript, Web-API's, Third-Party API's, Server-Side API's, NodeJs, express, MySQL, Mongo and React. 
