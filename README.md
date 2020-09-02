@@ -3,8 +3,6 @@
 <p> I am currently wrapping up a 12-week web-development coding bootcamp through UCSD extension to launch my STEM career. </p>
 <p> The entire bootcamp took place over Zoom, GitHub, GitLab, Google Drive, and Slack due to the COVID-19 crises. </p>
 
-[Link to React Portfolio](https://jessicablank.github.io/portfolio/)
-
 ### The bootcamp covered the fundamentals of:
 :computer: Git, HTML, CSS (including Bootstrap & Materialize), Javascript, Web-API's, Third-Party API's, Server-Side API's, Node Js, MySQL, express, Mongo, mongoose, and React. 
 
