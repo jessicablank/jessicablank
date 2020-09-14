@@ -4,10 +4,9 @@
 <p> The entire bootcamp took place over Zoom, GitHub, GitLab, Google Drive, and Slack due to the COVID-19 crises. </p>
 
 ### The bootcamp covered the fundamentals of:
-
 :computer: Git, HTML, CSS (including Bootstrap & Materialize), Javascript, Web-API's, Third-Party API's, Progressive Web Apps, Server-Side API's, NodeJs, MySQL, express, Mongo, mongoose, and React. 
 
-:wrench: Google Developer Tools,Postman, Testing with Jest, Visual Studio Code
+:wrench: Google Developer Tools, Postman, Testing with Jest, Visual Studio Code
 
 ### I am interested in coding and web-development because I am passionate about:
 - :heavy_check_mark: critical thinking & problem solving
