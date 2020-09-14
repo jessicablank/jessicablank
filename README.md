@@ -3,12 +3,14 @@
 <p> I am currently wrapping up a 12-week web-development coding bootcamp through UCSD extension to launch my STEM career. </p>
 <p> The entire bootcamp took place over Zoom, GitHub, GitLab, Google Drive, and Slack due to the COVID-19 crises. </p>
 
-[Link to React Portfolio](https://jessicablank.github.io/portfolio/)
-
 ### The bootcamp covered the fundamentals of:
+<<<<<<< HEAD
 :computer: Git, HTML, CSS (including Bootstrap & Materialize), Javascript, Web-API's, Third-Party API's, Progressive Web Apps, Server-Side API's, NodeJs, MySQL, express, Mongo, mongoose, and React. 
 
 :wrench: Postman, Google Developer Tools, Testing with Jest
+=======
+:computer: Git, HTML, CSS (including Bootstrap & Materialize), Javascript, Web-API's, Third-Party API's, Server-Side API's, Node Js, MySQL, express, Mongo, mongoose, and React. 
+>>>>>>> ddad2540db89c4dbb784debc4556c35646e40ef4
 
 ### I am interested in coding and web-development because I am passionate about:
 - :heavy_check_mark: critical thinking & problem solving
@@ -20,4 +22,4 @@
 
 :globe_with_meridians: You can reach me via [email](jessicablankemeier@gmail.com) or [Linkedin](https://www.linkedin.com/in/jessicablankemeier/) or even [twitter](https://twitter.com/JessBlankemeier) 
 
-*Check out this link to create your very own <a>[Octocat Avatar!](https://myoctocat.com/build-your-octocat/)*
+*Check out this link to create your very own nifty <a>[Octocat Avatar!](https://myoctocat.com/build-your-octocat/)*
