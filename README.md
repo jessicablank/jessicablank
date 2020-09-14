@@ -6,7 +6,9 @@
 [Link to React Portfolio](https://jessicablank.github.io/portfolio/)
 
 ### The bootcamp covered the fundamentals of:
-:computer: Git, HTML, CSS (including Bootstrap & Materialize), Javascript, Web-API's, Third-Party API's, Server-Side API's, NodeJs, MySQL, express, Mongo, mongoose, and React. 
+:computer: Git, HTML, CSS (including Bootstrap & Materialize), Javascript, Web-API's, Third-Party API's, Progressive Web Apps, Server-Side API's, NodeJs, MySQL, express, Mongo, mongoose, and React. 
+
+:wrench: Postman, Google Developer Tools, Testing with Jest
 
 ### I am interested in coding and web-development because I am passionate about:
 - :heavy_check_mark: critical thinking & problem solving
