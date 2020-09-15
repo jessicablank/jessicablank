@@ -6,7 +6,7 @@
 ### The bootcamp covered the fundamentals of:
 :computer: Git, HTML, CSS (including Bootstrap & Materialize), Javascript, Web-API's, Third-Party API's, Progressive Web Apps, Server-Side API's, NodeJs, MySQL, express, Mongo, mongoose, and React. 
 
-:wrench: Google Developer Tools, Postman, Testing with Jest, Visual Studio Code
+:hammer_and_wrench: Google Developer Tools, Google Drive, Postman, Testing with Jest, Visual Studio Code,
 
 ### I am interested in coding and web-development because I am passionate about:
 - :heavy_check_mark: critical thinking & problem solving
