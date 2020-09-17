@@ -16,6 +16,6 @@
 
 :octocat: I’m looking for help landing my first developer job. 
 
-:globe_with_meridians: You can reach me via [email](jessicablankemeier@gmail.com) or [Linkedin](https://www.linkedin.com/in/jessicablankemeier/) or even [twitter](https://twitter.com/JessBlankemeier) 
+:globe_with_meridians: You can reach me at [jessicablankemeier@gmail.com](jessicablankemeier@gmail.com) or [https://www.linkedin.com/in/jessicablankemeier/](https://www.linkedin.com/in/jessicablankemeier/)
 
 *Check out this link to create your very own nifty <a>[Octocat Avatar!](https://myoctocat.com/build-your-octocat/)*
