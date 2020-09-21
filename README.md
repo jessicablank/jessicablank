@@ -7,6 +7,8 @@
 
 :hammer_and_wrench: Git, GitHub, Google Developer Tools, Google Drive, Slack, Visual Studio, Zoom.
 
+:notebook_with_decorative_cover: I invite you to browse my repo or visit my portfolio page at [https://github.com/jessicablank/portfolio](https://github.com/jessicablank/portfolio)
+
 ### I am excited about coding and web-development because I am passionate about:
 - :heavy_check_mark: critical thinking & problem solving
 - :heavy_check_mark: lifelong learning
@@ -14,8 +16,6 @@
 - :heavy_check_mark: working on a team
 
 :octocat: I’m looking for help landing my first developer job. 
-
-:notebook_with_decorative_cover: I invite you to browse my repo or visit my portfolio page at [https://github.com/jessicablank/portfolio](https://github.com/jessicablank/portfolio)
 
 :globe_with_meridians: You can reach me at [jessicablankemeier@gmail.com](jessicablankemeier@gmail.com) or [https://www.linkedin.com/in/jessicablankemeier/](https://www.linkedin.com/in/jessicablankemeier/)
 
