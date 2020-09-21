@@ -7,7 +7,7 @@
 
 :hammer_and_wrench: Git, GitHub, Google Developer Tools, Google Drive, Slack, Visual Studio, Zoom.
 
-:notebook_with_decorative_cover: I invite you to browse my repo and visit my portfolio page at [https://jessicablank.github.io/portfolio/index.html](jessicablank.github.io/portfolio/)
+:notebook_with_decorative_cover: I invite you to browse my repo and visit my portfolio page at [https://jessicablank.github.io/portfolio/index.html](https://jessicablank.github.io/portfolio/index.html)
 
 ### I am excited about coding and web-development because I am passionate about:
 - :heavy_check_mark: critical thinking & problem solving
