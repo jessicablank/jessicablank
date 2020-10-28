@@ -1,6 +1,6 @@
-## Hello 👋 Thank you for visiting my GitHub Repo! <a><img align="right" src="https://github.com/jessicablank/jessicablank/blob/master/assets/OctoJessPlus.gif?raw=true"></a> 
+## Hello 🖖 Thank you for visiting my GitHub Repo! <a><img align="right" src="https://github.com/jessicablank/jessicablank/blob/master/assets/OctoJessPlus.gif?raw=true"></a> 
 
-### What I enjoy working with:
+### What I enjoy developing with:
 :computer: BootStrap, CSS3, ExpressJS, HTML5, JavaScript(ES5 and ES6), jQuery, MySQL, MongoDB, mySQL, NodeJS, and ReactJS.
 
 :hammer_and_wrench: Git, GitHub, Google Developer Tools, Google Drive, Slack, Visual Studio, Zoom.
@@ -10,7 +10,7 @@
 ### I am passionate about:
 - :heavy_check_mark: critical thinking & problem solving
 - :heavy_check_mark: lifelong learning
-- :heavy_check_mark: reading & writing
+- :heavy_check_mark: effective communication
 - :heavy_check_mark: working on a team
 
 :globe_with_meridians: You can reach me at [jessicablankemeier@gmail.com](jessicablankemeier@gmail.com) or [https://www.linkedin.com/in/jessicablankemeier/](https://www.linkedin.com/in/jessicablankemeier/)
