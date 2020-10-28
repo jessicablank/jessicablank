@@ -1,4 +1,4 @@
-## Hello 🖖 Thank you for visiting my GitHub Repo! <a><img align="right" src="https://github.com/jessicablank/jessicablank/blob/master/assets/OctoJessPlus.gif?raw=true"></a> 
+## Hello 🖖 Thank you for visiting my GitHub Repo! <a><img align="right" src="https://github.com/jessicablank/jessicablank/blob/master/assets/GrownUpOctoCat.gif"></a> 
 
 ### What I enjoy developing with:
 :computer: BootStrap, CSS3, ExpressJS, HTML5, JavaScript(ES5 and ES6), jQuery, MySQL, MongoDB, mySQL, NodeJS, and ReactJS.
