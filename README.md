@@ -8,10 +8,10 @@
 :notebook_with_decorative_cover: I invite you to browse my repo and visit my portfolio page at [https://jessicablank.github.io/portfolio/index.html](https://jessicablank.github.io/portfolio/index.html)
 
 ### I am passionate about:
-- :heavy_check_mark: critical thinking & problem solving
-- :heavy_check_mark: lifelong learning
-- :heavy_check_mark: effective communication
-- :heavy_check_mark: working on a team
+- :heavy_check_mark: Critical thinking & problem solving
+- :heavy_check_mark: Lifelong learning
+- :heavy_check_mark: Effective communication
+- :heavy_check_mark: Working on a team
 
 :globe_with_meridians: You can reach me at [jessicablankemeier@gmail.com](jessicablankemeier@gmail.com) or [https://www.linkedin.com/in/jessicablankemeier/](https://www.linkedin.com/in/jessicablankemeier/)
 
