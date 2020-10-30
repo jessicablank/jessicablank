@@ -13,6 +13,6 @@
 - :heavy_check_mark: Effective communication
 - :heavy_check_mark: Working on a team
 
-:globe_with_meridians: You can reach me at [jessicablankemeier@gmail.com](jessicablankemeier@gmail.com) or [https://www.linkedin.com/in/jessicablankemeier/](https://www.linkedin.com/in/jessicablankemeier/)
+:globe_with_meridians: You can reach me at [jessicablankemeier@gmail.com](mailto:jessicablankemeier@gmail.com) or [https://www.linkedin.com/in/jessicablankemeier/](https://www.linkedin.com/in/jessicablankemeier/)
 
 *Check out this link to create your very own nifty <a align="right">[Octocat Avatar!](https://myoctocat.com/build-your-octocat/)*
