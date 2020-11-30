@@ -1,7 +1,7 @@
 ## Hello 🖖 Thank you for visiting my GitHub Repo! <a><img align="right" src="https://github.com/jessicablank/jessicablank/blob/master/assets/GrownUpOctoCat.gif"></a> 
 
 ### What I enjoy developing with:
-:computer: BootStrap, CSS3, ExpressJS, HTML5, JavaScript(ES5 and ES6), jQuery, MySQL, MongoDB, mySQL, NodeJS, and ReactJS.
+:computer: BootStrap, CSS3, ExpressJS, HTML5, JavaScript, MongoDB, mySQL, NodeJS, and ReactJS.
 
 :hammer_and_wrench: Git, GitHub, Google Developer Tools, Google Drive, Slack, Visual Studio, Zoom.
 
