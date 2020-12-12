@@ -12,8 +12,8 @@ I invite you to browse my repo and visit my portfolio page at [https://jessicabl
 
 :globe_with_meridians: You can reach me at [jessicablankemeier@gmail.com](mailto:jessicablankemeier@gmail.com) or [https://www.linkedin.com/in/jessicablankemeier/](https://www.linkedin.com/in/jessicablankemeier/)
 
-Or connect with me on Pokémon Go
+<!-- Or simply trade with me on Pokémon Go
 
-<a><img align="center" src="./assets/pokemon.PNG"></a> 
+<a><img align="center" src="./assets/pokemon.PNG"></a>  -->
 
 *Check out this link to create your very own nifty <a align="right">[Octocat Avatar!](https://myoctocat.com/build-your-octocat/)
