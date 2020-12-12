@@ -1,11 +1,6 @@
 ## Hello 🖖 Thank you for visiting my GitHub Repo! <a><img align="right" src="https://github.com/jessicablank/jessicablank/blob/master/assets/GrownUpOctoCat.gif"></a> 
 
-### What I enjoy developing with:
-:computer: BootStrap, CSS3, ExpressJS, HTML5, JavaScript, MongoDB, mySQL, NodeJS, and ReactJS.
-
-:hammer_and_wrench: Git, GitHub, Google Developer Tools, Google Drive, Slack, Visual Studio, Zoom.
-
-:notebook_with_decorative_cover: I invite you to browse my repo and visit my portfolio page at [https://jessicablank.github.io/portfolio/index.html](https://jessicablank.github.io/portfolio/index.html)
+:hammer_and_wrench: This is my web development playground. I invite you to browse my repo and visit my portfolio page at [https://jessicablank.github.io/portfolio/index.html](https://jessicablank.github.io/portfolio/index.html)
 
 ### I am passionate about:
 - :heavy_check_mark: Critical thinking & problem solving
