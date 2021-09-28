@@ -4,17 +4,14 @@
 
 I invite you to browse my repo and visit my portfolio page at [https://jessicablank.github.io/portfolio/index.html](https://jessicablank.github.io/portfolio/index.html)
 
-### I am passionate about:
+### I am a software tester and documentation champion.
+ I enjoy this work because I get to practice:
 - :heavy_check_mark: Critical thinking & problem solving
-- :heavy_check_mark: Lifelong learning
-- :heavy_check_mark: Effective communication
+- :heavy_check_mark: Learning everyday
 - :heavy_check_mark: Working on a team
-- :atom: Sci-Fi (especially Star Trek)
+- :atom: Discussing Sci-Fi (especially Star Trek)
 
 :globe_with_meridians: You can reach me at [jessicablankemeier@gmail.com](mailto:jessicablankemeier@gmail.com) or [https://www.linkedin.com/in/jessicablankemeier/](https://www.linkedin.com/in/jessicablankemeier/)
 
-I'd also love to trade gifts on Pokémon Go
-
-<a><img align="center" src="./assets/pokemon.PNG"></a> 
 
 *Check out this link to create your very own nifty <a align="right">[Octocat Avatar!](https://myoctocat.com/build-your-octocat/)
